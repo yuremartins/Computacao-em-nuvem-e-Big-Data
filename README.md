@@ -1,7 +1,7 @@
 # Computacao-em-nuvem-e-Big-Data
 
 
-## Módulo 37: 3º Projeto: SQL
+## Módulo 37: Computação em Nuvem I
 
 - compreendeu os principais serviços oferecidos pela AWS;
 - conheceu os principais conceitos e características da infraestrutura em nuvem da AWS;
