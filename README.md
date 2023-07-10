@@ -27,3 +27,16 @@
 - compreendeu a definição de eventos e como eles são usados em sistemas distribuídos;
 - criou e gerenciou regras e eventos no AWS EventBridge;
 - conheceu as ferramentas e serviços relacionados ao AWS EventBridge, como o AWS Lambda e o Amazon SNS.s.
+
+
+## Módulo 39: Computação em Nuvem III
+
+- criou instâncias do EC2;
+- gerenciou instâncias do EC2;
+- transferiu arquivos para as instâncias do EC2.
+- configurou e gerenciar o ambiente de desenvolvimento do SageMaker;
+- criou, treinou e implantou modelos de machine learning com o SageMaker;
+- usou o SageMaker para análise e previsão de dados;
+- configurou acesso seguro às instâncias do EC2 via SSH;
+- configurou uma VPN para acessar recursos do VPC remotamente;
+- gerenciou permissões de acesso para usuários e grupos usando o IAM.
